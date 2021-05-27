@@ -150,6 +150,4 @@ Type: [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 - `price` **[Price](#price)** {currency: value}. Required
 - `image` **[string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)** Path to main image. Required.
 
-## License
 
-MIT © [Dennis Paler](https://github.com/akosidencio)
